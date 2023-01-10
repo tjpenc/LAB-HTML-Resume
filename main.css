@@ -1,3 +1,37 @@
 body {
-  background-color: blue;
+  background-color: lightcoral;
 }
+
+h2 {
+  color: rgb(31, 127, 44);
+}
+
+#YMCA {
+  font-family: 'Courier New', Courier, monospace;
+  border: 10px solid black;
+}
+
+#Library {
+  font-family: 'Courier New', Courier, monospace;
+  border: 2px dashed blue;
+  }
+
+#YES {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px dotted purple;
+    }
+
+#Hostel {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 15px double darkcyan;
+    }
+  
+#Beez {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 20px ridge green;
+    }
+
+#Eastman {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 50px groove fuchsia;
+    }
